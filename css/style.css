@@ -22,7 +22,7 @@ a {
 }
 
 .header {
-    background: url(../img/bg.png) no-repeat center / cover;
+    background: url(../img/unknown.png) no-repeat center / cover;
 }
 
 .header-block {
@@ -300,9 +300,9 @@ a {
 
 .card_people-img {
     border: 1px solid #F7ECE1;
-    padding-right: 15px;
-    padding-left: 15px;
-    padding-bottom: 0;
+    padding: 0 15px;
+    width: 166px;
+    height: 240px;
 }
 
 .title-people {
